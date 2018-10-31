@@ -7,4 +7,4 @@
   with_items:
     - postman
     - spotify
-  tags: [applications]
+  tags: applications
