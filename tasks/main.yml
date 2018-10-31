@@ -1,0 +1,10 @@
+---
+
+- name: Installs cask applications
+  homebrew_cask:
+    name: "{{ item }}"
+    state: present
+  with_items:
+    - postman
+    - spotify
+  tags: [applications]
