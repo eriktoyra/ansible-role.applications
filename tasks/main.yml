@@ -7,6 +7,9 @@
   with_items:
     - boostnote
     - caffeine
+    - google-chrome
     - insomnia
+    - slack
     - spotify
+    - visual-studio-code
   tags: applications
