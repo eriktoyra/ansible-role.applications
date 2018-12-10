@@ -7,6 +7,7 @@
   with_items:
     - boostnote
     - caffeine
+    - firefox
     - google-chrome
     - insomnia
     - slack
