@@ -4,6 +4,7 @@
   homebrew_cask:
     name: "{{ item }}"
     state: present
+    accept_external_apps: true
   with_items:
     - boostnote
     - caffeine
