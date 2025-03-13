@@ -6,12 +6,12 @@
     state: present
     accept_external_apps: true
   with_items:
-    - boostnote
+    - bear
     - caffeine
+    - derailed/k9s/k9s
     - firefox
     - google-chrome
-    - insomnia
-    - slack
+    - kubectl
     - spotify
     - visual-studio-code
   tags: applications
